@@ -4,8 +4,8 @@
 
 **MBBSDASM.IDA** is a collection of [Hex-Rays IDA](https://www.hex-rays.com/products/ida) IDS/IDT files that allow Hex-Rays IDA Disassembler to properly identify/label imported functions in MajorBBS/Worldgroup modules.
 
-These import definitions are modified versions of the more in-depth definitions available through [MBBSDASM](https://github.com/enusbaum/MBBSDASM). Everyone has their preferred reverse engineering tools, ensure folks who preferre
-to uuse Hex-Rays IDA for their disassembly can take advantage of all the research that has gone into better understanding GALACTICOMM MajorBBS/Worldgroup modules.
+These import definitions are modified versions of the more in-depth definitions available through [MBBSDASM](https://github.com/enusbaum/MBBSDASM). Everyone has their preferred reverse engineering tools, so I wanted to ensure folks who prefer
+to use Hex-Rays IDA for their disassembly can take advantage of all the research that has gone into better understanding GALACTICOMM MajorBBS/Worldgroup modules.
 
 # INSTALLATION
 
